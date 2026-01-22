@@ -1,0 +1,6 @@
+@Selu383.SP26.Api_HostAddress = http://localhost:5169
+
+GET {{Selu383.SP26.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
